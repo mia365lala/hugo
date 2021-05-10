@@ -57,6 +57,8 @@ social:
 #email: ""
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+爽點鹹酥雞！結帳「整包400」愣了
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+台灣的小吃「鹹酥雞」炸得金黃酥脆，灑上胡椒粉再搭上九層塔香氣逼人，深受不少民眾喜愛，更是許多人的宵夜首選；對此，近日一名屏科大的男網友在《Dcard》貼文提到，他到學校附近商圈買了一包鹹酥雞，豈料結帳一算，金額竟高達400元，畫面曝光掀起全場熱議。
+
+原PO好奇詢問「有沒有人吃遍學校附近的鹹酥雞？」心想學校周邊的鹹酥雞攤應該相對便宜，不過某日他到屏東縣內埔，經過一家鹹酥雞攤，心血來潮點了一些炸物結帳，驚呼「結果這樣快400塊，我是不是被當盤子了？」
