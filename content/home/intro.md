@@ -8,8 +8,8 @@ headless: true
 # Order that this section will appear in.
 weight: 10
 
-title: 米亞的部落格 ✏️ 
-subtitle: 'For [Wowchemy Website Builder](https://wowchemy.com/)'
+title: 米亞 ✏️ 
+subtitle: 'For [米亞的 部落格](https://tw.yahoo.com//)'
 
 design:
   background:
