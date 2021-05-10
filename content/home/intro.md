@@ -9,7 +9,7 @@ headless: true
 weight: 10
 
 title: 米亞 ✏️ 
-subtitle: 'For [米亞的 部落格](https://tw.yahoo.com//)'
+subtitle: 'For [米亞的部落格](https://tw.yahoo.com/)'
 
 design:
   background:
